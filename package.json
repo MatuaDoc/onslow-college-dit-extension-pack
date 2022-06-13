@@ -1,0 +1,40 @@
+{
+    "name": "onslow-college-dit-extensions",
+    "displayName": "Onslow College DIT Extension Pack",
+    "description": "Extensions needed for senior Onslow College Digital Technologies courses",
+    "version": "1.1.0",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "eamodio.gitlens",
+        "github.classroom",
+        "GitHub.github-vscode-theme",
+        "GitHub.remotehub",
+        "GitHub.vscode-pull-request-github",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-vscode.live-server",
+        "ms-vscode.remote-repositories",
+        "ms-vsliveshare.vsliveshare",
+        "oderwat.indent-rainbow",
+        "OnslowCollege.onslow-college-dit-extensions",
+        "pranaygp.vscode-css-peek",
+        "slightc.pip-manager",
+        "sswg.swift-lang",
+        "usernamehw.errorlens",
+        "vadimcn.vscode-lldb",
+        "yzhang.markdown-all-in-one",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-complete-tag",
+        "formulahendry.auto-rename-tag",
+        "aaron-bond.better-comments",
+        "hediet.vscode-drawio",
+        "ecmel.vscode-html-css",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode"
+    ]
+}
