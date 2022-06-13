@@ -3,6 +3,7 @@
     "displayName": "Onslow College DIT Extension Pack",
     "description": "Extensions needed for senior Onslow College Digital Technologies courses",
     "version": "1.1.0",
+    "publisher": "OnslowCollege",
     "repository": "https://github.com/MatuaDoc/onslow-college-dit-extension-pack",
     "engines": {
         "vscode": "^1.68.0"
