@@ -2,7 +2,7 @@
     "name": "onslow-college-dit-extensions",
     "displayName": "Onslow College DIT Extension Pack",
     "description": "Extensions needed for senior Onslow College Digital Technologies courses",
-    "version": "2.0.1",
+    "version": "2.0.0",
     "publisher": "OnslowCollege",
     "repository": "https://github.com/MatuaDoc/onslow-college-dit-extension-pack",
     "engines": {
