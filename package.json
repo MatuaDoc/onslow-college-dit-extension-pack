@@ -18,21 +18,17 @@
         "eamodio.gitlens",
         "GitHub.remotehub",
         "GitHub.vscode-pull-request-github",
-
         "ms-python.python",
         "ms-python.vscode-pylance",
         "ms-python.black-formatter",
         "ms-python.mypy-type-checker",
         "slightc.pip-manager",
-
         "sswg.swift-lang",
         "vadimcn.vscode-lldb",
-
         "ecmel.vscode-html-css",
         "christian-kohler.path-intellisense",
         "pranaygp.vscode-css-peek",
         "ms-vscode.live-server",
-        
         "oderwat.indent-rainbow",
         "usernamehw.errorlens",
         "aaron-bond.better-comments",
@@ -47,7 +43,6 @@
         "bierner.markdown-footnotes",
         "bierner.markdown-yaml-preamble",
         "DavidAnson.vscode-markdownlint",
-        
         "hediet.vscode-drawio"
     ],
     "contributes": {
@@ -75,5 +70,6 @@
             "editor.formatOnSave": true,
             "editor.formatOnSaveMode": "modificationsIfAvailable",
             "editor.formatOnType": true
+        }
     }
 }
