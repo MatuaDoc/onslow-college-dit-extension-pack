@@ -48,7 +48,7 @@
         "bierner.markdown-yaml-preamble",
         "DavidAnson.vscode-markdownlint",
         
-        "hediet.vscode-drawio",
+        "hediet.vscode-drawio"
     ],
     "contributes": {
         "configurationDefaults": {
