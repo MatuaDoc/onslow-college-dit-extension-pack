@@ -20,8 +20,6 @@
         "GitHub.vscode-pull-request-github",
         "ms-python.python",
         "ms-python.vscode-pylance",
-        "ms-python.black-formatter",
-        "ms-python.mypy-type-checker",
         "slightc.pip-manager",
         "sswg.swift-lang",
         "vadimcn.vscode-lldb",
