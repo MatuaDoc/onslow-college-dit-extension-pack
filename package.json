@@ -4,7 +4,7 @@
     "description": "Extensions needed for senior Onslow College Digital Technologies courses",
     "version": "2.0.0",
     "publisher": "OnslowCollege",
-    "icon": "images/onslow.png",
+    "icon": "img/onslow.png",
     "repository": "https://github.com/MatuaDoc/onslow-college-dit-extension-pack",
     "engines": {
         "vscode": "^1.79.0"
