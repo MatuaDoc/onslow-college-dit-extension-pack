@@ -20,12 +20,11 @@ This extension pack contains all of the packages necessary for Digital Technolog
 ],
 "python.linting.mypyEnabled": true,
 "python.linting.mypyArgs": [
+    "--strict",
     "--follow-imports=silent",
     "--ignore-missing-imports",
     "--show-column-numbers",
-    "--disallow-untyped-defs",
-    "--no-pretty",
-    "--strict"
+    "--pretty"
 ],
 "editor.wordWrap": "on",
 "editor.fontSize": 16,

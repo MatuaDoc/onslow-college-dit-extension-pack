@@ -20,12 +20,11 @@ This extension pack contains all of the packages necessary for Digital Technolog
 ],
 "python.linting.mypyEnabled": true,
 "python.linting.mypyArgs": [
+    "--strict",
     "--follow-imports=silent",
     "--ignore-missing-imports",
     "--show-column-numbers",
-    "--disallow-untyped-defs",
-    "--no-pretty",
-    "--strict"
+    "--pretty"
 ],
 "editor.wordWrap": "on",
 "editor.fontSize": 16,
@@ -33,49 +32,3 @@ This extension pack contains all of the packages necessary for Digital Technolog
 "editor.formatOnSaveMode": "modificationsIfAvailable",
 "editor.formatOnType": true
 ```
-
-## Extensions included
-
-### GitHub integration
-
-- GitHub Repositories
-- GitHub Pull Requests and Issues
-- GitLens
-
-## Python integration
-
-- Python extension
-- Pylance
-- Pip Manager
-
-## Swift integration (13DTC with Matua Doc)
-
-- Swift
-- CodeLLDB
-
-## Web development tools
-
-- HTML CSS Support
-- lit-html
-- Path Intellisense
-- CSS Peek
-- Color Info
-- Auto Close Tag
-- Auto Complete Tag
-- Auto Rename Tag
-- Live Preview
-
-## General tools
-
-- Indent Rainbow
-- Error Lens
-- Better Comments
-- Docs View
-- Markdown All-in-One
-- GitHub Markdown Preview
-- Markdown Preview Github Styling
-- Markdown Checkboxes
-- Markdown Emoji
-- Markdown Footnotes
-- markdownlint
-- Draw.io integration
